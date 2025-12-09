@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/880829481252989017/76aab3368764441d87d6dc3c7b59b5da/artifacts
+end_time: 1765231650831
+entry_point_name: ''
+experiment_id: '880829481252989017'
+lifecycle_stage: active
+run_id: 76aab3368764441d87d6dc3c7b59b5da
+run_name: receptive-gnat-782
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765231650739
+status: 3
+tags: []
+user_id: Charles

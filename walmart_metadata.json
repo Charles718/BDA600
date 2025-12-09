@@ -1,0 +1,23 @@
+{
+    "dtypes": {
+        "Store": "int64",
+        "Date": "datetime64[ns]",
+        "Weekly_Sales": "float64",
+        "Holiday_Flag": "category",
+        "Temperature": "float64",
+        "Fuel_Price": "float64",
+        "CPI": "float64",
+        "Unemployment": "float64"
+    },
+    "columns": [
+        "Store",
+        "Date",
+        "Weekly_Sales",
+        "Holiday_Flag",
+        "Temperature",
+        "Fuel_Price",
+        "CPI",
+        "Unemployment"
+    ],
+    "n_rows": 6435
+}
